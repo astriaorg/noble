@@ -965,12 +965,12 @@ github.com/nishanths/exhaustive v0.11.0 h1:T3I8nUGhl/Cwu5Z2hfc92l0e04D2GEW6e0l8p
 github.com/nishanths/exhaustive v0.11.0/go.mod h1:RqwDsZ1xY0dNdqHho2z6X+bgzizwbLYOWnZbbl2wLB4=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
-github.com/noble-assets/cosmos-sdk v0.45.16-send-restrictions h1:oQwbCoejkXp2/ozQSwc//A6UW9wJl71YgP7o04MsYq0=
-github.com/noble-assets/cosmos-sdk v0.45.16-send-restrictions/go.mod h1:bScuNwWAP0TZJpUf+SHXRU3xGoUPp+X9nAzfeIXts40=
 github.com/noble-assets/forwarding v1.1.0 h1:2TXBs2Y9vWqgHyDKtdcHht6i7OT+pLaVHE3bPvfpmJY=
 github.com/noble-assets/forwarding v1.1.0/go.mod h1:o64ZfzCHteRDhOlkpi7GeKAcjlcbWUihC7Y34Er2/3U=
 github.com/noble-assets/halo v1.0.1 h1:Fndy4JaAAvEd5SDGECnkoWJ2uVG1XCF47L67Px9ickE=
 github.com/noble-assets/halo v1.0.1/go.mod h1:AUFdixNgPdce0soYfT6aNggwW9PUVFxaIkCC83M26Sk=
+github.com/noot/cosmos-sdk v0.0.0-20241011105118-cf988181098e h1:p0u+XzcOq+IkHYBuZQ3vcna+JbuSUP/WJnGLDjvxIKg=
+github.com/noot/cosmos-sdk v0.0.0-20241011105118-cf988181098e/go.mod h1:bScuNwWAP0TZJpUf+SHXRU3xGoUPp+X9nAzfeIXts40=
 github.com/nunnatsa/ginkgolinter v0.14.0 h1:XQPNmw+kZz5cC/HbFK3mQutpjzAQv1dHregRA+4CGGg=
 github.com/nunnatsa/ginkgolinter v0.14.0/go.mod h1:cm2xaqCUCRd7qcP4DqbVvpcyEMkuLM9CF0wY6VASohk=
 github.com/nxadm/tail v1.4.4 h1:DQuhQpB1tVlglWS2hLQ5OV6B5r8aGxSrPc5Qo6uTN78=
